@@ -1,0 +1,19 @@
+.HexToRgb {
+    max-width: 320px;
+    padding: 32px;
+    margin: 0 auto;
+}
+
+.HexToRgb p {
+    display: inline;
+    margin-right: 12px;
+
+}
+
+.HexToRgb input {
+    display: inline;
+}
+
+.HexToRgb .row {
+    margin: 12px;
+}
