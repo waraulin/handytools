@@ -18,6 +18,8 @@ class App extends Component {
             It is intended to reduce the amount of Googling things while developing.
         </p>
         <HexToRgb/>
+        <p>Here's an inspirational video</p>
+        <iframe src="https://player.vimeo.com/video/232485795" width="640" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     );
   }
